@@ -16,5 +16,3 @@ operate in linux.
 在linux内修改。
 在linux内修改二。
 在linux内修改三。
-在linux内修改四。
-在linux内修改5。

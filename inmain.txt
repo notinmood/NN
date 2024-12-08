@@ -23,3 +23,4 @@ operate in linux.
 20241021A
 在线修改。
 在线修改2.
+hi，centos!
